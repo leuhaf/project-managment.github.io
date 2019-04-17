@@ -22,7 +22,7 @@
 | 6   | Felipe Barbosa Nicolau Fernandes    | Android V9    | 42h 8min  | 31h 31min | 33h 51min | -         | -         | -     | -     |
 | 7   | Gésio de Moura                      | QualityTime   | 16h 18min | 41h 21min | 28h 16min | -         | -         | -     | -     |
 | 8   | Isaac Bruno Lima da Silva           | -             | -         | -         | -         | -         | -         | -     | -     |
-| 9   | Jackson Leandro Arruda Ferreira     | QualityTime   | -         | -         | -         | -         | 35h 20min | -     | -     |
+| 9   | Jackson Leandro Arruda Ferreira     | QualityTime   | 10h 15min | 46h 37min | 30h 7min  | 29h 12min | 35h 20min | 22h 33min     | 42h 13min |
 | 10  | Joel Maykon Ribeiro de Lima         | UBhid         | 19h 42min | -         | -         | -         | -         | -     | -     |
 | 11  | Juan Felipe Ibanez Ferreira         | -             | -         | -         | -         | -         | -         | -     | -     |
 | 12  | Lavinia Medeiros Miranda            | QualityTime   | 6h19min   | 49h6min   | 46h6min   | 41h51min  | -         | -     | -     |
@@ -55,7 +55,7 @@
 | 6   | Felipe Barbosa Nicolau Fernandes    | YouTube             | YouTube                  | YouTube                  | -                     | -                     | -     | -     |
 | 7   | Gésio de Moura                      | Instagram           | YouTube                  | YouTube                  | -                     | -                     | -     | -     |
 | 8   | Isaac Bruno Lima da Silva           | -                   | -                        | -                        | -                     | -                     | -     | -     |
-| 9   | Jackson Leandro Arruda Ferreira     | -                   | -                        | -                        | -                     | WhatsApp                     | -     | -     |
+| 9   | Jackson Leandro Arruda Ferreira     | WhatsApp            | Youtube                  | Whatsapp                 | Instagram      | WhatsApp                     | WhatsApp     | WhatsApp     |
 | 10  | Joel Maykon Ribeiro de Lima         | Despertador         | -                        | -                        | -                     | -                     | -     | -     |
 | 11  | Juan Felipe Ibanez Ferreira         | -                   | -                        | -                        | -                     | -                     | -     | -     |
 | 12  | Lavinia Medeiros Miranda            | WhatsApp (1h57min)  | Twitter (14h17min)       | WhatsApp (12h9min)       | WhatsApp (9h55min     | -                     | -     | -     |
